@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Vishnu Vardhan
 
-🎓 **MERN Stack Developer | Spring Boot & SQL Enthusiast**  
+🎓 **MERN Stack Developer**  
 💻 Passionate about building scalable full-stack applications  
 🌱 Always exploring new tech and deployment strategies
 
 ---
 
 ## 🚀 About Me
-- 🌟 Skilled in **MERN Stack**, **Spring Boot**, and **SQL**
+- 🌟 Skilled in **MERN Stack**,**Git**and **SQL**
 - 📚 Backend specialist who loves optimizing database queries
 - 🎯 Goal: Master microservices & cloud-native applications
 - ⚡ Fun fact: My commits are fueled by ☕ coffee and 🎵 music
@@ -47,7 +47,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/ummadivishnuvardhan/ummadivishnuvardhan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ummadivishnuvardhan/ummadivishnuvardhan/output/github-contribution-grid-snake.svg)
+
 
 ---
 
