@@ -62,6 +62,8 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ummadivishnuvardhan46@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://vishnu-portfolio-personal.netlify.app/)
+
 ---
 ✨ _Thanks for visiting my profile!_ ✨
 
